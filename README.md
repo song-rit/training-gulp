@@ -1,1 +1,1 @@
-# traiing-gulp
+# training-gulp
