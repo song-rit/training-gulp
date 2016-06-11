@@ -1,0 +1,3 @@
+function frist(){
+	return 'frist';
+}

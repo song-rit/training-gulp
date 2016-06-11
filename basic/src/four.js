@@ -1,0 +1,3 @@
+four = function() {
+	return "four";
+}
