@@ -1,3 +1,6 @@
+// Example from Carry Landholt
+// Link : https://www.youtube.com/watch?v=dwSLFai8ovQ
+
 var gulp = require('gulp');
 var uglify = require('gulp-uglify');
 var concat = require('gulp-concat');
